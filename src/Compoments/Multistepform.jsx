@@ -86,6 +86,7 @@ export default function Multistepform() {
     console.log("First Name : -", fname);
     console.log("Last Name : -", lname);
     console.log("Mobile Number : -", number);
+    alert("Your data is sucessfully submitted");
 
     setFname("");
     setLname("");
